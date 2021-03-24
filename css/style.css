@@ -61,11 +61,11 @@ header {
 
 header h1 {
     font-size: 48pt;
-    color: palevioletred; 
+    color: black; 
 }
 
 h2,h3,h4 {
-    color: palevioletred
+    color: black
 }
 
 .highlight {
@@ -111,8 +111,8 @@ aside {
 }
 
 figcaption {
-    background-color: pink;
-    border: 1px solid: palevioletred;
+    background-color: black;
+    border: 1px solid: black;
     text-align: center;
     padding: 5px;
     margin-top: -4px;
@@ -121,7 +121,7 @@ figcaption {
 .main-section button {
     padding: 10px;
     border-radius: 5px;
-    background-color: palevioletred;
+    background-color: black;
     color: white;
     box-shadow: black;
     margin-top: 1rem;
@@ -135,7 +135,7 @@ figcaption {
 nav a {
     display: inline-block;
     padding: 1.25rem 2rem;
-    color: pink;
+    color: black;
     font-weight: 350;
     font-size: 18pt;
     text-decoration: none;
